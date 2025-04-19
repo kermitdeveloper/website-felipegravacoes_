@@ -1,0 +1,7 @@
+<div class="paginationSystem">
+			<a class="item click active" href="filmes/genero/todos/1">1</a><a class="item click "
+				href="filmes/genero/todos/2">2</a><a class="item click " href="filmes/genero/todos/3">3</a><a
+				class="item click " href="filmes/genero/todos/4">4</a><a class="item click "
+				href="filmes/genero/todos/5">5</a><a class="item click next" rel="next"
+				href="filmes/genero/todos/2">Próxima</a>
+		</div>
